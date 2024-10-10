@@ -1,4 +1,4 @@
-import { relative } from 'path/posix';
+
 import React from 'react'
 import { FaHamburger } from "react-icons/fa";
 import { FaSearch } from "react-icons/fa";

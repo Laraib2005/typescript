@@ -6,7 +6,6 @@ import Carousel from './component/Carousel'
 import Offer from './component/Offer'
 import ProductList from './component/ProductList'
 import Progressor from './component/progressor'
-import Testimonals from './component/Testimonals'
 import Footer from './component/Footer'
 import Deals from './component/Deals'
 
